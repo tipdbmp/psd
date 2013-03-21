@@ -1,0 +1,26 @@
+body { background: black; color: white; }
+.chat-msg-meta {  }
+.chat-msg-content {  }
+.chat-room-name { color: #FF6644; }
+.chat-alias { color: #02c8f4; }
+.chat-bracket { color: #4466FF; }
+.chat-colon { color: #4466FF; }
+.chat-dot { color: #4466FF; }
+.chat-angle-bracket { color: #888888; }
+#chat-input { background: black; color: white; border-top: 0.5px dashed gray; }
+
+a:link    { color: #008040; } /* unvisited link  */
+a:visited { color: #961096; } /* visited link    */
+a:hover   { color: #80DCDC; } /* mouse over link */
+a:active  { color: #80DCDC; } /* selected link   */
+
+.theme-select-eyecandy
+{
+    background: black; 
+    border: 0px;
+    /* border-left: 1px  solid #008040;  */
+    /* border-bottom: 1px  solid #008040;  */
+    /* padding-top: 2px; */
+    /* margin: 0px 5px 0px 5px; */
+    color: #444444;
+}

@@ -1,0 +1,12 @@
+/* body { background: gray; color: black; } */
+/* #page { background: white; } */
+
+#login-section { width: 512px; height: 384px; background: none; position: fixed; left: 50%; top: 50%; margin-left: -256px; margin-top: -192px; display: table; }
+#login-section div { display: table-cell; vertical-align: middle; text-align: center; }
+#login-alias { width: 150px; }
+
+#chat-screen { font-family: Consolas, Terminus, 'Courier New', monospace; line-height: 50%; }
+#chat-input-section { position: fixed; bottom: 0px; width: 100%; }
+#chat-input { width: 100%; border: none; }
+
+#theme-select { position: fixed; top: 0px; right: 0px; }
